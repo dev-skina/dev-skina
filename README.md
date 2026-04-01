@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Leandro Nunes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=6e36c9&text=Leandro%20Nunes&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 
-**`Desenvolvedor FullStack`**
+## 🚀 **Full-Stack Developer | Data Analystics**
 
-Olá! Me chamo Leandro Nunes, tenho 34 anos e natural de Minas Gerais, possuo 15 anos de experiência no setor de tecnologia. 
-Minha trajetória inclui dois anos dedicados à Gestão de Projetos e QA, competências que hoje fortalecem minha atuação como Desenvolvedor Full Stack Jr. e Analista de Dados especializado em Power BI. 
-Estou me formando em Analise e Desenvolvimento de sistemas, sou movido por transformar dados em decisões e código em soluções eficientes.
+Olá! Me chamo Leandro sou natural de Minas Gerais, possuo 15 anos de experiência na área de tecnologia. 
+Minha trajetória inclui três anos dedicados à Gestão de Projetos, especificações de documentos e QA, competências que hoje fortalecem minha atuação como Desenvolvedor Full Stack Jr. e Analista de Dados especializado em Power BI. 
+Estou me formando em Analise e Desenvolvimento de sistemas, e posteriormente Cyber Segurança, uma junção de conhecimentos para um futuro DevSecOps, sou movido por transformar dados em decisões e código em soluções eficientes.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/leandro-nunes-0b2208b6/">
@@ -26,7 +26,7 @@ Estou me formando em Analise e Desenvolvimento de sistemas, sou movido por trans
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### ⚡ Tech Arsenal
 
 <img 
     align="left" 
@@ -144,7 +144,7 @@ Estou me formando em Analise e Desenvolvimento de sistemas, sou movido por trans
 <br/>
 <br/>
 
-### 📊 Analise de dados
+### 📊 Data Analytics
 
 <img 
     align="left" 
@@ -203,3 +203,77 @@ Estou me formando em Analise e Desenvolvimento de sistemas, sou movido por trans
 <br/>
 <br/>
 
+### 📄 Certificate e Insígnias
+
+<img 
+    align="left" 
+    alt="Google Cloud Computing Foundations Certificate" 
+    title="Google Cloud Computing Foundations Certificate"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=20774&format=png&color=000000"
+ />
+
+<img 
+    align="left" 
+    alt="Prepare Data for ML APIs on Google Cloud Skill Badge" 
+    title="Prepare Data for ML APIs on Google Cloud Skill Badge"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"
+ /> 
+
+<img 
+    align="left" 
+    alt="Build a Secure Google Cloud Network Skill Badge" 
+    title="Build a Secure Google Cloud Network Skill Badge"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"
+ /> 
+
+ <img 
+    align="left" 
+    alt="Set Up an App Dev Environment on Google Cloud Skill Badge" 
+    title="Set Up an App Dev Environment on Google Cloud Skill Badge"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"
+ /> 
+
+ <img 
+    align="left" 
+    alt="Implement Load Balancing on Compute Engine Skill Badge" 
+    title="Implement Load Balancing on Compute Engine Skill Badge"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=fpGM2cINbbu4&format=png&color=000000"
+ /> 
+
+  <img 
+    align="left" 
+    alt="WATI" 
+    title="WATI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=102354&format=png&color=000000"
+ />
+
+ <img 
+    align="left" 
+    alt="Power BI na prática + SQLServer" 
+    title="Power BI na prática + SQLServer"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=ZGFCSq0zrC5g&format=png&color=000000"
+ />
+
+<br/>
+<br/>
+
+---
+
+### 📫 Reach Me
+- ✉️ **Email**: leandroap.nunes@gmail.com]
+
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6e36c9&section=footer"/>

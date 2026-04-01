@@ -148,6 +148,15 @@ Estou me formando em Analise e Desenvolvimento de sistemas, sou movido por trans
 
 <img 
     align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"
+ /> 
+
+<img 
+    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -164,5 +173,33 @@ Estou me formando em Analise e Desenvolvimento de sistemas, sou movido por trans
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="SQLDeveloper" 
+    title="SQLDeveloper"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Microsoft SQL Server" 
+    title="Microsoft SQL Server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+
 <br/>
 <br/>
+

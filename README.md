@@ -274,6 +274,6 @@ Estou me formando em Analise e Desenvolvimento de sistemas, e posteriormente Cyb
 ---
 
 ### 📫 Reach Me
-- ✉️ **Email**: leandroap.nunes@gmail.com]
+- ✉️ **Email**: leandroap.nunes@gmail.com
 
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=6e36c9&section=footer"/>

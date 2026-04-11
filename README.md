@@ -203,7 +203,7 @@ Estou me formando em Analise e Desenvolvimento de sistemas, e posteriormente Cyb
 <br/>
 <br/>
 
-### 📄 Certificate e Insígnias
+### 📄 Certificate Insígnias
 
 <img 
     align="left" 
